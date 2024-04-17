@@ -1,6 +1,6 @@
 {
   "name": "tea-laoli2024",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -12,6 +12,9 @@
   },
   "author": "mrlee2024",
   "license": "ISC",
+  "devDependencies": {
+    "tea-mrlee": "^0.1.0"
+  },
   "bugs": {
     "url": "https://github.com/laolao876/tea-laoli2024/issues"
   },
