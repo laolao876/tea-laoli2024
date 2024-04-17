@@ -1,0 +1,19 @@
+{
+  "name": "tea-laoli2024",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laolao876/tea-laoli2024.git"
+  },
+  "author": "mrlee2024",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laolao876/tea-laoli2024/issues"
+  },
+  "homepage": "https://github.com/laolao876/tea-laoli2024#readme"
+}
