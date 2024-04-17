@@ -12,7 +12,7 @@
   },
   "author": "mrlee2024",
   "license": "ISC",
-  "devDependencies": {
+  "dependencies": {
     "tea-mrlee": "^0.1.0"
   },
   "bugs": {
